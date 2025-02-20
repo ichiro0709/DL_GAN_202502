@@ -1,0 +1,7 @@
+notebook
+argparse
+torch
+torchvision
+numpy
+matplotlib
+ipython
