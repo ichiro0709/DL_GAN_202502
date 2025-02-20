@@ -1,3 +1,4 @@
 data/
 .venv/
 output_images/
+models_archive/
