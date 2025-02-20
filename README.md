@@ -7,8 +7,8 @@
 - [License](#license)
 
 ## References
-- Ian J. Goodfellow et al., "Generative Adversarial Networks," 2014. [(arXiv:1406.2661)](https://arxiv.org/abs/1406.2661)
-- Alec Radford et al., "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks," 2015. [(arXiv:1511.06434)](https://arxiv.org/abs/1511.06434)
+- [Ian J. Goodfellow et al., "Generative Adversarial Networks," 2014. ](https://arxiv.org/abs/1406.2661)
+- [Alec Radford et al., "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks," 2015.](https://arxiv.org/abs/1511.06434)
 
 ## [File Structure]
 ```
