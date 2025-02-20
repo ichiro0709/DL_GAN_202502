@@ -30,7 +30,7 @@
 git clone https://github.com/ichiro0709/DL_GAN_202502.git
 cd DL_GAN_202502
 ```
-### 2. Set up the virtual environment
+### 2. Set up the virtual environment(Python venv)
 ```bash
 ./setup_virtual_environment.bash
 ```
