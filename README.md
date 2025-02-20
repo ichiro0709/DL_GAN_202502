@@ -1,16 +1,16 @@
-# [DL_GAN_202502](#dl_gan_202502)
+# [DL_GAN_202502]
 
-## [Contents](#contents)
+## [Contents]
 - [References](#references)
 - [File Structure](#file-structure)
 - [Usage](#usage)
 - [License](#license)
 
-## [References](#references)
+## [References]
 - Ian J. Goodfellow et al., "Generative Adversarial Networks," 2014. [(arXiv:1406.2661)](https://arxiv.org/abs/1406.2661)
 - Alec Radford et al., "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks," 2015. [(arXiv:1511.06434)](https://arxiv.org/abs/1511.06434)
 
-## [File Structure](#file-structure)
+## [File Structure]
 ```
 ├── GAN_mnist.ipynb              # Jupyter notebook for training GAN on MNIST
 ├── LICENSE                      # MIT License file
@@ -24,20 +24,20 @@
 └── training_dcgan_faces.ipynb      # Jupyter notebook for extensive GAN training
 ```
 
-## [Usage](#usage)
-### [1. Clone this repository](#1-clone-this-repository)
+## [Usage]
+### [1. Clone this repository]
 ```zsh {iscopy=true}
 git clone https://github.com/ichiro0709/DL_GAN_202502.git
 cd DL_GAN_202502
 ```
-### [2. Set up the virtual environment](#2-set-up-the-virtual-environment)
+### [2. Set up the virtual environment]
 ```bash
 ./setup_virtual_environment.bash
 ```
-### [3. Train the model](#3-train-the-model)
+### [3. Run th code]
 - If you want a **quick test**, run `GAN_mnist.ipynb`.
 - If you have **GPU resources available**, run `training_dcgan_faces.ipynb` for more extensive training.
-- If you have a **pre-trained model**, run `load_learned_model.ipynb` to generate images.
+- If you have a **pre-trained model** (generated using `training_dcgan_faces.ipynb`), run `load_trained_model.ipynb` to generate images.
 
 
 # DCGAN with PyTorch
