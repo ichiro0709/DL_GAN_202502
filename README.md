@@ -31,6 +31,8 @@ git clone https://github.com/ichiro0709/DL_GAN_202502.git
 cd DL_GAN_202502
 ```
 ### 2. Set up the virtual environment(Python venv)
+This project was executed using Python 3.11.3. It may not work correctly with Python 3.13.
+
 ```bash
 ./setup_virtual_environment.bash
 ```
