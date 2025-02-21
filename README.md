@@ -34,6 +34,10 @@ cd DL_GAN_202502
 ```bash
 ./setup_virtual_environment.bash
 ```
+Note: It is not strictly required to follow this, but when loading a pre-trained model, ensure that the PyTorch version matches the one used during training. (In my environment, I used PyTorch==2.6.0).
+
+
+
 ### 3. Run th code
 - If you want a **quick test**, run `GAN_mnist.ipynb`.
 - If you have **GPU resources available**, run `training_dcgan_faces.ipynb` for more extensive training.
