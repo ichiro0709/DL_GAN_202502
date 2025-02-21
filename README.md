@@ -17,7 +17,7 @@
 ├── README.md                    # Project documentation
 ├── load_trained_model.ipynb      # Notebook for loading trained models
 ├── models_archive
-│   └── celeba                     # Pretrained GAN models on CelebA dataset
+│   └── celeba                     # Pretrained DCGAN models on CelebA dataset
 ├── output_images                  # Generated images from GAN
 ├── requirements.txt               # Required packages for the project
 ├── setup_virtual_environment.bash # Script to set up the virtual environment
